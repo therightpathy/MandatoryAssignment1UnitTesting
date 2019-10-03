@@ -2,7 +2,7 @@
 
 namespace MandatoryAssignment1UnitTesting
 {
-    public class Class1
+    public class Book
     {
     }
 }
